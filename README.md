@@ -5,10 +5,10 @@ After this, we split up the dataset to train a logistic regression model to help
 
 ## Links to other Portfolios
 ### Portfolio 1
-https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Nathaniel-Roberts/tree/main/Portfolios
+https://github.com/Nathaniel-Roberts/Data-Science-Portfolio-1-And-Weekly-Practicals/tree/main/Portfolio
 
 ### Portfolio 2
-https://github.com/MQ-COMP2200-COMP6200/portfolio-part-2-Nathaniel-Roberts/tree/main
+https://github.com/Nathaniel-Roberts/Data-Science-Portfolio-2
 
 ### Portfolio 4
-https://github.com/MQ-COMP2200-COMP6200/portfolio-part-4-Nathaniel-Roberts
+https://github.com/Nathaniel-Roberts/Data-Science-Portfolio-4
